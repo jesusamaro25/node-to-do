@@ -1,4 +1,4 @@
-##Aplicación de comandos
+## Aplicación de comandos
 
 Es necesario aplicar el siguiente comando antes de correr la aplicación:
 ```
